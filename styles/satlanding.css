@@ -1,0 +1,478 @@
+.satdiff {
+  position: relative;
+  bottom: 1.25rem;
+  left: 1.5rem;
+}
+.prepinsta {
+  background: rgba(144, 205, 247, 1);
+}
+.circular-chart {
+  display: block;
+  margin: 2px auto;
+  width: 210px;
+  height: 210px;
+}
+.card {
+  font: 1.2em sans-serif;
+  margin: 10px;
+  text-align: center;
+  color: #f8f8f8;
+  justify-content: center;
+  width: 190px;
+  height: 90px;
+  border-radius: 30px;
+  background: linear-gradient(4deg, #4656bd -11.55%, #22d0ec 112.04%);
+  box-shadow: 10px 10px 20px #bebebe, -10px -10px 20px #ffffff;
+}
+
+.circle {
+  fill: none;
+  stroke-width: 2.8;
+  stroke-linecap: round;
+  animation: progress 2s ease-out forwards;
+}
+
+@keyframes progress {
+  0% {
+    stroke-dasharray: 0 100;
+  }
+  100% {
+    stroke-dasharray: 69, 31;
+  }
+}
+.percentage {
+  fill: #666;
+  font-family: sans-serif;
+  font-size: 0.4em;
+  text-anchor: middle;
+}
+.circle {
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  border-radius: 100%;
+  font-size: 32px;
+  font-weight: 600;
+  color: #000;
+  text-align: center;
+  border: 1px solid #000;
+  margin: 5px;
+}
+@keyframes progress {
+  0% {
+    stroke-dasharray: 0 100;
+  }
+}
+.go_girls {
+  width: 960px;
+  height: 490px;
+}
+
+.p_one {
+  border-style: solid;
+  border-width: 0.5px;
+  width: 760px;
+  border-color: rgb(37, 37, 37);
+}
+
+.satTextColor {
+  color: #084fc7;
+}
+.satTextColorImage {
+  color: #6659de;
+}
+.satTextColorImage1 {
+  color: #ffc500;
+}
+.watch-text {
+  color: #626071;
+}
+.strong {
+  color: rgba(21, 133, 217, 1);
+}
+.satImagesMcc {
+  background: rgba(126, 83, 249, 1);
+}
+.satImagesMcc9 {
+  background: rgba(72, 78, 186, 1);
+}
+.satImagesPreps {
+  color: #232258;
+}
+.sat_card {
+  background: rgba(255, 139, 102, 1);
+}
+.sat_card_image {
+  background: rgba(0, 187, 255, 1);
+}
+.sat_card_image1 {
+  background: rgba(126, 112, 255, 1);
+}
+.sat_card_image2 {
+  background: rgba(255, 186, 0, 1);
+}
+.sat_card_image_unique {
+  background: rgba(255, 252, 235, 1);
+}
+.sat_card_image_unique1 {
+  background: rgba(235, 241, 255, 1);
+}
+.sat_card_image_unique2 {
+  background: rgba(223, 245, 245, 1);
+}
+.sat_card_image_unique3 {
+  background: rgba(235, 255, 255, 1);
+}
+.donationButton {
+  background: #fd7e14;
+}
+.donationButton99 {
+  background: #c13c37;
+}
+.donationButton1 {
+  background: #aee7ff;
+}
+.satTextColor1 {
+  background: linear-gradient(88.93deg, #45cbcb 1.06%, #5ee5e1 191.55%);
+}
+.satTextColor0 {
+  background: rgba(226, 246, 255, 1);
+}
+.footer_bg {
+  background: rgba(89, 79, 196, 1);
+}
+.satTextColor2 {
+  background: linear-gradient(90deg, #bca4f9 0%, #dbc8fa 100%);
+}
+.satTextColor11 {
+  background: rgba(239, 253, 255, 1);
+}
+.satTextColor4 {
+  background: linear-gradient(278.28deg, #4656bd -11.55%, #22d0ec 112.04%);
+}
+.satTextColor5 {
+  background: linear-gradient(161.85deg, #36aef4 7.87%, #635fd9 89.84%);
+}
+.sat_unique {
+  background: rgba(235, 241, 255, 1);
+}
+.satTextColor9 {
+  background: linear-gradient(180deg, #419cee 0%, #6066dc 100%);
+}
+.shu_name {
+  color: rgba(0, 231, 255, 1);
+}
+.satTextColor8 {
+  background: rgba(186, 233, 255, 1);
+}
+.satTextColorPreps {
+  background: #f6f5ff;
+}
+.satTextColorPrepsAll {
+  background: linear-gradient(97.25deg, #c358de 0%, #b42ed6 100%), linear-gradient(0deg, #f6d7fe, #f6d7fe);
+}
+.emoji-bg-col {
+  background: rgba(72, 71, 183, 1);
+}
+.hall_of_fame {
+  background: rgba(0, 187, 255, 1);
+}
+.hall_of_fame1 {
+  background: rgba(194, 239, 255, 1);
+}
+.hall_of_fame2 {
+  background: rgba(126, 112, 255, 1);
+}
+.hall_of_fame3 {
+  background: rgba(200, 194, 255, 1);
+}
+.hall_of_fame4 {
+  background: rgba(255, 186, 0, 1);
+}
+.hall_of_fame5 {
+  background: rgba(255, 239, 194, 1);
+}
+.hall_of_fame6 {
+  background: rgba(255, 139, 102, 1);
+}
+.hall_of_fame7 {
+  background: rgba(255, 209, 194, 1);
+}
+.hall_of_fame8 {
+  background: rgba(255, 186, 0, 1);
+}
+.hall_of_fame9 {
+  background: rgba(255, 238, 194, 1);
+}
+.hall_of_fame10 {
+  background: rgba(126, 112, 255, 1);
+}
+.hall_of_fame11 {
+  background: rgba(200, 194, 255, 1);
+}
+.satTextColor6 {
+  background: rgba(241, 220, 127, 1);
+}
+.teacher_policy {
+  background: rgba(89, 79, 196, 1);
+}
+.connect_policy {
+  background: linear-gradient(278.28deg, #959abd -11.55%, #22d0ec 112.04%);
+}
+.student_policy{
+  background: linear-gradient(278.28deg,  #C2EAF2 -11.04%, #22d0ec 112.55%);
+}
+.satTextColor3 {
+  background: linear-gradient(90deg, #fbdf28 0%, #fbe129 0.01%, #faed23 100%);
+}
+.schduledFreeBtn {
+  background-color: #6a53e1;
+}
+
+.myIframe {
+  position: relative;
+  width: 460px;
+}
+
+.myIframe iframe {
+  position: absolute;
+
+  width: 880px;
+  height: 420px;
+}
+.line_bg_girls {
+  background-image: url('/images/gogirlsline.png');
+  background-position: start;
+  background-repeat: no-repeat;
+  background-size: 1560px 1100px;
+  /* margin-top: -260px; */
+}
+@media only screen and (max-width: 768px) {
+  .bg_line_girls {
+    background-image: url('/images/gogirlsline.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 760px 1120px;
+  }
+}
+
+.line-background {
+  background-image: url('/images/Lines.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 1224px 680px;
+}
+@media only screen and (max-width: 768px) {
+  .bg_line {
+    background-image: url('/images/Lines1.png');
+    background-position: start;
+    background-repeat: no-repeat;
+    background-size: 420px 920px;
+  }
+}
+.line_backgrounds {
+  background-image: url('/images/Lines2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 1080px 1920px;
+}
+@media only screen and (max-width: 768px) {
+  .bg_line3 {
+    background-image: url('/images/Lines2.png');
+    background-position: start;
+    background-repeat: no-repeat;
+    background-size: 430px 1380px;
+  }
+}
+.sat-mainImage {
+  background-image: url('/images/backgd.png');
+  background-position: start;
+  background-repeat: no-repeat;
+}
+
+.sat-mainImage1 {
+  background-image: url('/images/Subtract.png');
+  background-position: top right;
+  background-repeat: no-repeat;
+  background-size: 120px 320px;
+}
+.sat-mainImage3 {
+  background-image: url('/images/card90.png');
+  background-position: bottom left;
+  background-repeat: no-repeat;
+  background-size: 120px 320px;
+}
+@media only screen and (max-width: 768px) {
+  .content_bg {
+    background-image: url('/images/card90.png');
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    background-size: 65px 160px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .content_bg_screen {
+    background-image: url('/images/Subtract.png');
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: 65px 160px;
+  }
+}
+
+.sat-mainImage5 {
+  background-image: url('/images/circlelogo.png');
+  background-position: top right;
+  background-repeat: no-repeat;
+  background-size: 120px 320px;
+}
+
+@media only screen and (max-width: 768px) {
+  .content_bg_screens {
+    background-image: url('/images/circlelogo.png');
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: 65px 160px;
+  }
+}
+
+.sat-mainImage13 {
+  background-image: url('/images/Circle11.png');
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: 120px 320px;
+}
+@media only screen and (max-width: 768px) {
+  .content_bg_screens_preps {
+    background-image: url('/images/Circle11.png');
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: 65px 160px;
+  }
+}
+
+.satdifBackColor {
+  background-color: #f1edff;
+}
+.association_preps {
+  background: #f5feff;
+}
+.sat50stu {
+  width: 28%;
+}
+.stuText7test {
+  margin-bottom: 4px;
+}
+.satclass7 {
+  padding-left: 27px;
+  padding-top: 1px;
+}
+@media only screen and (max-width: 425px) {
+  .mobGroup {
+    font-size: 13px;
+    padding-top: 0px;
+  }
+  .mobGimg {
+    margin-left: 0.1rem;
+  }
+  .mobGsecimg {
+    margin-left: 3rem;
+  }
+  .mobPrepMat {
+    padding-right: 30px !important;
+    font-size: 13px;
+    padding-top: 0px;
+  }
+  .mobPrepday {
+    padding-right: 25px;
+    font-size: 13px;
+    padding-top: 0px;
+  }
+  .mobIndiv {
+    font-size: 13px;
+    padding-right: 2px !important;
+    padding-top: 0px;
+  }
+  .mobStudent {
+    font-size: 13px;
+    padding-right: 20px !important;
+    padding-top: 0px;
+  }
+  .mobConfidence {
+    font-size: 13px;
+    padding-right: 5px !important;
+    padding-top: 0px;
+  }
+  .mobPrep {
+    font-size: 13px;
+    padding-right: 27px !important;
+    padding-top: 0px;
+  }
+  .mobMax {
+    font-size: 13px;
+    /* padding-right: 17px!important; */
+    padding-top: 1px;
+    padding-right: 0px !important;
+    width: 32%;
+  }
+  .stuText {
+    font-size: 13px;
+  }
+  .stuText7 {
+    padding-left: 15px !important;
+  }
+  .stuText9 {
+    padding-left: 16px;
+  }
+  .emoji-smiley {
+    background: rgba(247, 252, 253, 1);
+  }
+  .stuText10 {
+    padding-left: 40px;
+  }
+  .mobstuTextSylabus {
+    padding-right: 21px !important;
+    /* padding-top: 1px; */
+  }
+  .satImage {
+    height: 360px;
+  }
+  .schduledFreeBtnMain {
+    margin-left: 21%;
+    position: relative;
+    top: 45px;
+    z-index: 1;
+  }
+  .accordianText {
+    font-size: 15px;
+  }
+  .accordianContent {
+    font-size: 13px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .stuTextSylabusMax {
+    padding-right: 122px;
+    /* padding-top: 1px; */
+  }
+  .stuTextSylabus {
+    /* padding-right: 118px!important; */
+    /* padding-top: 1px; */
+  }
+  .tabGsecimg {
+    margin-left: 3rem;
+  }
+  .tabStuText {
+    padding-left: 31px;
+  }
+  .satclass7tab {
+    padding-left: 2px !important;
+  }
+  .schduledFreeBtn {
+    margin-left: 22%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .posts {
+    width: 350px;
+  }
+}

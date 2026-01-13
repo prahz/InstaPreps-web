@@ -1,0 +1,14 @@
+{
+  "settings": {
+    "jira-plugin.workingProject": "",
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "css.validate": false
+  },
+  "folders": [
+    {
+      "path": "."
+    }
+  ]
+}

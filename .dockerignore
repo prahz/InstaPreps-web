@@ -1,0 +1,39 @@
+# dependencies
+node_modules
+
+# testing
+coverage
+
+# next.js
+.next
+
+# nginx
+nginx
+
+# vsocde
+.vscode
+
+# git
+.git/
+.gitignore
+**/.gitkeep
+**/.DS_Store
+
+# docker
+.dockerignore
+Dockerfile*
+docker-compose*
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log*
+
+# local env files
+.env**
+
+# others
+*.swp
+README.md
+LICENSE

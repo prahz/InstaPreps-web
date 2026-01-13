@@ -1,0 +1,8 @@
+{
+  "jira-plugin.workingProject": "",
+  "css.validate": false,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "postman.settings.dotenv-detection-notification-visibility": false
+}
